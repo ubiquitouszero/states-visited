@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">States Visited</string>
+    <string name="title_activity_main">States Visited</string>
+    <string name="package_name">com.askthehuman.statesvisited</string>
+    <string name="custom_url_scheme">com.askthehuman.statesvisited</string>
+</resources>
